@@ -1,0 +1,61 @@
+column,dtype,missing_count,missing_percent,unique_nonmissing
+Source,str,0,0.0,27
+Run,str,0,0.0,90
+Exp T(ºC),float64,0,0.0,38
+Exp P(kbar),float64,0,0.0,41
+SiO2 (Pl),float64,25,27.78,62
+TiO2 (Pl),float64,25,27.78,15
+Al2O3 (Pl),float64,25,27.78,60
+FeO (Pl),float64,25,27.78,47
+MnO (Pl),float64,25,27.78,8
+MgO (Pl),float64,25,27.78,24
+CaO (Pl),float64,25,27.78,59
+Na2O (Pl),float64,25,27.78,59
+K2O (Pl),float64,25,27.78,40
+Ca (Pl),float64,0,0.0,84
+Na (Pl),float64,0,0.0,82
+K (Pl),float64,0,0.0,70
+SiO2 (Hbl),float64,0,0.0,79
+TiO2 (Hbl),float64,0,0.0,76
+Al2O3 (Hbl),float64,0,0.0,79
+FeO (Hbl),float64,0,0.0,83
+MnO (Hbl),float64,0,0.0,39
+MgO (Hbl),float64,0,0.0,85
+CaO (Hbl),float64,0,0.0,66
+Na2O (Hbl),float64,0,0.0,71
+K2O (HBl),float64,0,0.0,59
+ZnO (Hbl),float64,0,0.0,1
+Cr2O3 (Hbl),float64,0,0.0,9
+NiO (Hbl),float64,0,0.0,1
+F (Hbl),float64,0,0.0,11
+Cl (Hbl),float64,0,0.0,9
+Exp T(ºC).1,float64,0,0.0,38
+T (Hbl-Pl-90),float64,0,0.0,90
+T (Hbl-Pl-94-ave),float64,0,0.0,90
+T (Hbl-Pl-21-ave),float64,25,27.78,65
+T (Hbl-Pl-94-A),float64,0,0.0,90
+T (Hbl-Pl-94-B),float64,0,0.0,90
+T (Hbl-Pl-21-TA1),float64,25,27.78,65
+T (Hbl-Pl-21-T-A2),float64,25,27.78,65
+T (Hbl-97),float64,0,0.0,90
+Exp P(kbar).1,float64,0,0.0,41
+P (Hbl-Pl-07-ave),float64,0,0.0,90
+P (Hbl-Pl-07-(1)),float64,0,0.0,90
+P (Hbl-Pl-07-(2)),float64,0,0.0,90
+P (Hbl-Pl-15),float64,25,27.78,65
+P (Hbl97),float64,0,0.0,90
+T (Hbl-Pl-94-ave).1,float64,0,0.0,90
+P (Hbl-Pl-07-ave).1,float64,0,0.0,90
+P (Hbl-Pl-07-1),float64,0,0.0,90
+P (Hbl-Pl-07-2),float64,0,0.0,90
+T (Hbl-Pl-94A),float64,0,0.0,90
+T (Hbl-Pl-94B),float64,0,0.0,90
+T (Hbl-Pl-21),float64,25,27.78,65
+P (Hbl-Pl-15).1,float64,25,27.78,65
+T (Hbl-Pl-21-TA1).1,float64,25,27.78,65
+T (Hbl-Pl-21-T-A2).1,float64,25,27.78,65
+T (Hbl97),float64,0,0.0,90
+P (Hbl97).1,float64,0,0.0,90
+source_original,str,0,0.0,27
+source_clean,str,0,0.0,27
+candidate_study_id,str,0,0.0,24

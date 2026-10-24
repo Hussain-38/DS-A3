@@ -1,0 +1,4 @@
+model,n_predictors,n_nonzero_coefficients,n_zero_coefficients,intercept_C
+Linear Regression,19,19,0,898.1698113207543
+Ridge alpha=1.0,19,19,0,898.1698113207545
+Lasso alpha=0.01,19,19,0,898.1698113207543

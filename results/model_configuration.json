@@ -1,0 +1,37 @@
+{
+  "seed": 20261021,
+  "target": "Exp T(\u00baC)",
+  "features": [
+    "Exp P(kbar)",
+    "SiO2 (Pl)",
+    "TiO2 (Pl)",
+    "Al2O3 (Pl)",
+    "FeO (Pl)",
+    "MnO (Pl)",
+    "MgO (Pl)",
+    "CaO (Pl)",
+    "Na2O (Pl)",
+    "K2O (Pl)",
+    "SiO2 (Hbl)",
+    "TiO2 (Hbl)",
+    "Al2O3 (Hbl)",
+    "FeO (Hbl)",
+    "MnO (Hbl)",
+    "MgO (Hbl)",
+    "CaO (Hbl)",
+    "Na2O (Hbl)",
+    "K2O (HBl)"
+  ],
+  "group_column": "study_id",
+  "cv": "GroupKFold(n_splits=5)",
+  "selection_metric": "MAE",
+  "tuning_data": "Training partition only",
+  "test_set_used_for_selection": false,
+  "ridge_lasso_alpha_grid": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ]
+}

@@ -1,0 +1,28 @@
+source_original,source_clean,candidate_study_id,n_runs,needs_review
+Alonso-Perez et al. (2009),Alonso-Perez et al. (2009),alonso-perez_2009,5,False
+Apted and Liou (1983),Apted and Liou (1983),apted_1983,1,False
+"Blatter, D.L., Carmichael, I.S.E., 2001. Hydrous phase equilibria of a Mexican high-silica andesite: a candidate for a mantle origin?. Geochimica et Cosmochimica Acta, 65, 4043–4065.","Blatter, D.L., Carmichael, I.S.E., 2001. Hydrous phase equilibria of a Mexican high-silica andesite: a candidate for a mantle origin?. Geochimica et Cosmochimica Acta, 65, 4043–4065.",blatter_2001,1,False
+Caricchi et al. (2006),Caricchi et al. (2006),caricchi_2006,3,True
+"Caricchi, L., Ulmer, P., Peccerillo, A., 2006. A high-pressure experimental study on the evolution of the silicic magmatism of the Main Ethiopian Rift. Lithos 91, 46–58.","Caricchi, L., Ulmer, P., Peccerillo, A., 2006. A high-pressure experimental study on the evolution of the silicic magmatism of the Main Ethiopian Rift. Lithos 91, 46–58.",caricchi_2006,2,True
+Conrad et al. (1988),Conrad et al. (1988),conrad_1988,1,False
+Ernst and Liu (1998),Ernst and Liu (1998),ernst_1998,3,True
+"Ernst, W.G., Liu, J., 1998. Experimental phase-equilibrium study of Al- and Ti-contents of calcic amphibole in MORB—A semiquantitative thermobarometer. American Mineralogist 83, 952–969.","Ernst, W.G., Liu, J., 1998. Experimental phase-equilibrium study of Al- and Ti-contents of calcic amphibole in MORB—A semiquantitative thermobarometer. American Mineralogist 83, 952–969.",ernst_1998,3,True
+Gardner et al. (1995),Gardner et al. (1995),gardner_1995,2,False
+Grove et al. (1997),Grove et al. (1997),grove_1997,4,False
+Grove et al. (2003),Grove et al. (2003),grove_2003,1,False
+Holtz et al. (2005),Holtz et al. (2005),holtz_2005,3,False
+"Klimm, K., Holtz, F., Johannes, W., King, P.L., 2003. Fractionation of metaluminous A-type granites: an experimental study of the Wangrah Suite, Lachlan Fold Belt, Australia. Precambrian Research 124, 327–341.","Klimm, K., Holtz, F., Johannes, W., King, P.L., 2003. Fractionation of metaluminous A-type granites: an experimental study of the Wangrah Suite, Lachlan Fold Belt, Australia. Precambrian Research 124, 327–341.",klimm_2003,1,False
+Krawczynski et al. (2012),Krawczynski et al. (2012),krawczynski_2012,1,False
+Martel et al. (1999),Martel et al. (1999),martel_1999,1,False
+Moore and Carmichael (1998),Moore and Carmichael (1998),moore_1998,3,False
+Pichavant et al. (2002),Pichavant et al. (2002),pichavant_2002,6,False
+Pietranik et al. (2009),Pietranik et al. (2009),pietranik_2009,3,False
+Prouteau and Scaillet (2003),Prouteau and Scaillet (2003),prouteau_2003,6,True
+"Prouteau, G., Scaillet, B., 2003. Experimental constraints on the origin of the 1991 Pinatubo dacite. Journral of Petrology 44, 2203–2241.","Prouteau, G., Scaillet, B., 2003. Experimental constraints on the origin of the 1991 Pinatubo dacite. Journral of Petrology 44, 2203–2241.",prouteau_2003,1,True
+"Rutherford, M.J., Devine, J.D., 2008. Magmatic conditions and processes in the storage zone of the 2004–2006 Mount St. Helens dacite. In: Sherrod, D.R., Scott, W.E., Stauffer, P.H. (Eds.), A Volcano Rekindled: The Renewed Eruption of Mount St. Helens, 2004–2006: U.S. Geological Survey Professional Paper 1750, 703–726.","Rutherford, M.J., Devine, J.D., 2008. Magmatic conditions and processes in the storage zone of the 2004–2006 Mount St. Helens dacite. In: Sherrod, D.R., Scott, W.E., Stauffer, P.H. (Eds.), A Volcano Rekindled: The Renewed Eruption of Mount St. Helens, 2004–2006: U.S. Geological Survey Professional Paper 1750, 703–726.",rutherford_2008,5,False
+Scaillet and Evans (1999),Scaillet and Evans (1999),scaillet_1999,7,False
+"Schmidt, M.W., 1992. Amphibole composition in tonalite as a function of pressure: an experimental calibration of the Al-in-hornblende barometer. Contributions to Mineralogy and Petrology 110, 304–310.","Schmidt, M.W., 1992. Amphibole composition in tonalite as a function of pressure: an experimental calibration of the Al-in-hornblende barometer. Contributions to Mineralogy and Petrology 110, 304–310.",schmidt_1992,7,False
+"Schmidt, M.W., 1993. Phase relations and compositions in tonalite as a function of pressure: an experimental study at 650°C. American Journal of Science 293, 1011-1060.","Schmidt, M.W., 1993. Phase relations and compositions in tonalite as a function of pressure: an experimental study at 650°C. American Journal of Science 293, 1011-1060.",schmidt_1993,9,False
+Schmidt and Thompson (1996),Schmidt and Thompson (1996),schmidt_1996,1,False
+Sisson and Grove (1993),Sisson and Grove (1993),sisson_1993,7,False
+"Spear, F.S., 1981. An experimental study of hornblende stability and compositional variability in amphibolite. American Journal of Science 281, 697-734.","Spear, F.S., 1981. An experimental study of hornblende stability and compositional variability in amphibolite. American Journal of Science 281, 697-734.",spear_1981,3,False

@@ -1,0 +1,7 @@
+Training-set OLS residual diagnostic
+Breusch-Pagan LM statistic: 2.271615
+LM p-value: 0.131763
+F statistic: 2.286055
+F p-value: 0.137857
+
+Interpret cautiously: the sample is small and the OLS model has many predictors.

@@ -1,0 +1,4 @@
+split,n_observations,n_studies,baseline_prediction_C,observed_mean_temperature_C
+train,45,11,903.9333333333333,903.9333333333333
+validation,8,4,903.9333333333333,865.75
+test,12,4,903.9333333333333,839.5833333333334

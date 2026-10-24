@@ -1,0 +1,31 @@
+{
+  "target": "Exp T(\u00baC)",
+  "features": [
+    "Exp P(kbar)",
+    "SiO2 (Pl)",
+    "TiO2 (Pl)",
+    "Al2O3 (Pl)",
+    "FeO (Pl)",
+    "MnO (Pl)",
+    "MgO (Pl)",
+    "CaO (Pl)",
+    "Na2O (Pl)",
+    "K2O (Pl)",
+    "SiO2 (Hbl)",
+    "TiO2 (Hbl)",
+    "Al2O3 (Hbl)",
+    "FeO (Hbl)",
+    "MnO (Hbl)",
+    "MgO (Hbl)",
+    "CaO (Hbl)",
+    "Na2O (Hbl)",
+    "K2O (HBl)"
+  ],
+  "selected_model": "Ridge",
+  "ridge_alpha": 1.0,
+  "final_fit_data": "Training + validation partitions",
+  "test_used_for_fitting": false,
+  "test_used_for_tuning": false,
+  "baseline": "Mean target in training + validation partitions",
+  "split_file": "D:\\Data Science Assignment\\My Projects\\DS-A3\\data_processed\\S2_frozen_split.csv"
+}
